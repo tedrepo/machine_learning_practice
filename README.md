@@ -1,3 +1,3 @@
 # machine_learning_practice
-･ gaussian process
+･ gaussian process  
 ･ logistic regression
